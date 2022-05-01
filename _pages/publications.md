@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Conference ##
 [**Registered Report: First, Fuzz the Mutants**](https://agroce.github.io/fuzzing22.pdf)<br/>
-Alex Groce, Goutamkumar Tulajappa Kalburgi, Claire Le Goues,  Kush Jain, Rahul Gopinath  
+Alex Groce, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, *Kush Jain*, Rahul Gopinath  
 Proceedings of the the 1st International Fuzzing Workshop (FUZZING 2022)<br/>
 [Pdf](https://agroce.github.io/fuzzing22.pdf)
 

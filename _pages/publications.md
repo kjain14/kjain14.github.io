@@ -13,7 +13,7 @@ Alex Groce, Goutamkumar Tulajappa Kalburgi, Claire Le Goues,  Kush Jain, Rahul G
 Proceedings of the the 1st International Fuzzing Workshop (FUZZING 2022)<br/>
 [Pdf](https://agroce.github.io/fuzzing22.pdf)
 
-[**Full Report to Chaincode Labs/Bitcoin Core: Looking for Lacunae in Bitcoin Core’s Fuzzing Efforts**](https://agroce.github.io/icse22.pdf)<br/>
+[**Looking for Lacunae in Bitcoin Core’s Fuzzing Efforts**](https://agroce.github.io/icse22.pdf)<br/>
 Alex Groce, *Kush Jain*, Rijnard van Tonder, Goutamkumar Tulajappa Kalburgi, Claire Le Goues  
 Proceedings of the 43rd International Conference on Software Engineering (ICSE 2022)<br/>
 [Pdf](https://agroce.github.io/icse22.pdf)

@@ -18,7 +18,7 @@ Proceedings of the 31st ACM Joint European Software Engineering Conference and S
 Proceedings of the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023)<br/>
 [Pdf](https://arxiv.org/pdf/2309.02395.pdf)
 
-[**CAT-LM: Training Language Models on Aligned Code And Tests**]<br/>
+**CAT-LM: Training Language Models on Aligned Code And Tests**<br/>
 Nikitha Rao<sup>+</sup>, *Kush Jain<sup>+</sup>*, Uri Alon, Claire Le Goues, Vincent Hellendoorn (<sup>+</sup> means equal contribution)  
 Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)<br/>
 

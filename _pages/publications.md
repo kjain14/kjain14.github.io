@@ -19,7 +19,7 @@ Proceedings of the 34th IEEE International Symposium on Software Reliability Eng
 [Pdf](https://arxiv.org/pdf/2309.02395.pdf)
 
 [**CAT-LM: Training Language Models on Aligned Code And Tests**]<br/>
-Nikitha Rao+, *Kush Jain+*, Uri Alon, Claire Le Goues, Vincent Hellendoorn (+ means equal contribution)  
+Nikitha Rao<sup>+</sup>, *Kush Jain<sup>+</sup>*, Uri Alon, Claire Le Goues, Vincent Hellendoorn (<sup>+</sup> means equal contribution)  
 Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)<br/>
 
 [**Registered Report: First, Fuzz the Mutants**](https://agroce.github.io/fuzzing22.pdf)<br/>

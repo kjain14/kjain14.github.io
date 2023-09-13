@@ -8,10 +8,10 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YBZt0-AAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## Conference ##
-[**Contextual Predictive Mutation Testing**](https://arxiv.org/abs/2309.02389)<br/>
+[**Contextual Predictive Mutation Testing**](https://arxiv.org/pdf/2309.02389.pdf)<br/>
 *Kush Jain*, Uri Alon, Alex Groce, Claire Le Goues
 Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)<br/>
-[Pdf](https://arxiv.org/abs/2309.02389)
+[Pdf](https://arxiv.org/pdf/2309.02389.pdf)
 
 [**Mind the Gap: The Difference Between Coverage and Mutation Score Can Guide Testing Efforts**](https://arxiv.org/pdf/2309.02395.pdf)<br/>
 *Kush Jain*, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Alex Grocee  

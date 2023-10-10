@@ -14,7 +14,7 @@ Proceedings of the 31st ACM Joint European Software Engineering Conference and S
 [Pdf](https://arxiv.org/pdf/2309.02389.pdf)
 
 [**Mind the Gap: The Difference Between Coverage and Mutation Score Can Guide Testing Efforts**](https://arxiv.org/pdf/2309.02395.pdf)<br/>
-*Kush Jain*, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Alex Grocee  
+*Kush Jain*, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Alex Groce  
 Proceedings of the 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023)<br/>
 [Pdf](https://arxiv.org/pdf/2309.02395.pdf)
 

@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Conference ##
 [**Syntax Is All You Need: A Universal-Language Approach to Mutant Generation**](https://agroce.github.io/fse24.pdf)<br/>
-Sourav Deb, *Kush Jain*, Rijnard van Tonder, Claire Le Goues, Alex Groce
+Sourav Deb, *Kush Jain*, Rijnard van Tonder, Claire Le Goues, Alex Groce<br/>
 Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)<br/>
 [Pdf](https://agroce.github.io/fse24.pdf)
 

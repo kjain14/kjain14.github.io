@@ -14,7 +14,7 @@ Proceedings of the 32nd ACM International Conference on the Foundations of Softw
 [Pdf](https://agroce.github.io/fse24.pdf)
 
 [**Contextual Predictive Mutation Testing**](https://arxiv.org/pdf/2309.02389.pdf)<br/>
-*Kush Jain*, Uri Alon, Alex Groce, Claire Le Goues
+*Kush Jain*, Uri Alon, Alex Groce, Claire Le Goues<br/>
 Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)<br/>
 [Pdf](https://arxiv.org/pdf/2309.02389.pdf)
 

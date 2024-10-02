@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YBZt0-AAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## Conference ##
+[**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**](https://arxiv.org/pdf/2410.00752)<br/>
+*Kush Jain*, Gabriel Synnaeve, Baptiste Rozière<br/>
+[Pdf](https://arxiv.org/pdf/2410.00752)
+
 [**Syntax Is All You Need: A Universal-Language Approach to Mutant Generation**](https://agroce.github.io/fse24.pdf)<br/>
 Sourav Deb, *Kush Jain*, Rijnard van Tonder, Claire Le Goues, Alex Groce<br/>
 Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering (FSE 2024)<br/>

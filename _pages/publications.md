@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [Pdf](https://arxiv.org/pdf/2503.14713)
 
 [**Are Large Language Models Memorizing Bug Benchmarks?**](https://arxiv.org/pdf/2411.13323)<br/>
-Daniel Ramos, Claudia Mamede<sup>+</sup>, *Kush Jain<sup>+</sup>*, Paulo Canelas<sup>+</sup>, Catarina Gamboa<sup>+</sup>, Claire Le Goues<br/>
+Daniel Ramos, Claudia Mamede<sup>+</sup>, *Kush Jain<sup>+</sup>*, Paulo Canelas<sup>+</sup>, Catarina Gamboa<sup>+</sup>, Claire Le Goues (<sup>+</sup> means equal contribution)  <br/>
 Proceedings of the 2nd International Workshop on Large Language Models for Code (LLM4Code 2025)<br/>
 Won Best Paper Award!<br/>
 [Pdf](https://arxiv.org/pdf/2411.13323)

@@ -8,8 +8,19 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YBZt0-AAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 ## Conference ##
+[**TestForge: Feedback-Driven, Agentic Test Suite Generation**](https://arxiv.org/pdf/2503.14713)<br/>
+*Kush Jain*, Claire Le Goues<br/>
+[Pdf](https://arxiv.org/pdf/2503.14713)
+
+[**Are Large Language Models Memorizing Bug Benchmarks?**](https://arxiv.org/pdf/2411.13323)<br/>
+Daniel Ramos, Claudia Mamede<sup>+</sup>, *Kush Jain<sup>+</sup>*, Paulo Canelas<sup>+</sup>, Catarina Gamboa<sup>+</sup>, Claire Le Goues<br/>
+Proceedings of the 2nd International Workshop on Large Language Models for Code (LLM4Code 2025)<br/>
+Won Best Paper Award!<br/>
+[Pdf](https://arxiv.org/pdf/2411.13323)
+
 [**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**](https://arxiv.org/pdf/2410.00752)<br/>
 *Kush Jain*, Gabriel Synnaeve, Baptiste Rozière<br/>
+Proceedings of the 13th International Conference on Learning Representations (ICLR 2025)<br/>
 [Pdf](https://arxiv.org/pdf/2410.00752)
 
 [**Syntax Is All You Need: A Universal-Language Approach to Mutant Generation**](https://agroce.github.io/fse24.pdf)<br/>

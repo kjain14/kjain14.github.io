@@ -65,3 +65,9 @@ Proceedings of the 42nd International Conference on Software Engineering (ICSE D
 [Pdf](http://users.ece.utexas.edu/~gligoric/papers/JainETAL20mCoqTool.pdf)
 [Code](https://github.com/EngineeringSoftware/mcoq)
 [Video](https://www.youtube.com/watch?v=rx3353HbeVY)
+
+## Thesis ##
+[**Exploiting Test Structure to Enhance Language Models for Software Testing**](https://www.kushjain.com/files/thesis_final.pdf)<br/>
+*Kush Jain*<br>
+Committee: Claire Le Goues, Christian Kaestner, Daniel Fried, Alex Groce<br>
+[Pdf](https://www.kushjain.com/files/thesis_final.pdf)
